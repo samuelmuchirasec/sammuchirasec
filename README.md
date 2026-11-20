@@ -1,0 +1,2 @@
+# sammuchirasec
+my first respitory  
