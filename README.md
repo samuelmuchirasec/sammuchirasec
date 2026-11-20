@@ -1,67 +1,8 @@
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/samuelmuchirasec/sammuchirasec/main/Cybersecurity%20Practitioner%20Neon%20SOC%20Banner.png"
-    alt="Samuel Murimi - Cybersecurity Practitioner"
-    width="100%"
-  />
-</p>
-
-<h1 align="center">Samuel Murimi Muchira</h1>
-
-<h3 align="center">Cybersecurity Practitioner | Security Operations | Vulnerability Assessment</h3>
-
-<p align="center">
-  <a href="https://github.com/samuelmuchirasec">GitHub</a> |
-  <a href="https://www.linkedin.com/in/samuel-murimi-39a3b53a4/">LinkedIn</a>
-</p>
-
+ Samuel Murimi Muchira | Cybersecurity Practitioner # Samuel Murimi Muchira ### CYBERSECURITY PRACTITIONER **Building, Breaking & Securing Systems.** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-murimi-39a3b53a4/) [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuelmuchirasec)
+--- ## About Me I am a cybersecurity practitioner developing practical skills in **security operations, threat detection, vulnerability assessment, web application security, and network security**. My approach is hands-on: build controlled labs, investigate security behaviour, test systems within authorized environments, document findings, and turn lessons into reproducible projects. I am particularly interested in defensive security, SOC workflows, and understanding how vulnerabilities can be identified, assessed, and addressed. - 🔎 **Focus:** SOC operations, threat detection, vulnerability assessment, and security research. - 🧪 **Learning approach:** Practical labs, technical investigations, and documented projects. - 🛡️ **Interests:** Security visibility, detection engineering, and incident response. - 📍 **Location:** Kenya. ## Core Focus Areas | Area | Practical focus | |---|---| | **SOC Operations** | SIEM monitoring, log analysis, alert triage, and investigation | | **Threat Detection** | Identifying suspicious activity and understanding detection logic | | **Vulnerability Assessment** | Reconnaissance, service enumeration, validation, and risk assessment | | **Web Application Security** | Authorized testing, OWASP risks, and security reporting | | **Network Security** | Network discovery, service analysis, and exposure assessment | | **Incident Response** | Investigation workflow, evidence handling, and response documentation | | **Security Research** | Technical research, lab validation, and responsible disclosure principles | ## Technical Toolkit ### Operating Systems ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ### Security Tools ![Nmap](https://img.shields.io/badge/Nmap-2C5E8A?style=flat-square&logo=linux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-3A7D44?style=flat-square&logo=wazuh&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=linux&logoColor=white) ### Platforms & Technologies ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ### Frameworks & Guidance ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-EA3A2A?style=flat-square&logoColor=white) ![NIST CSF](https://img.shields.io/badge/NIST_CSF-164B73?style=flat-square&logoColor=white) ![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white) ## Featured Projects > Project status is stated conservatively. Add repository links and evidence as each project is published. ### 1. Home SOC Lab — In Progress A virtual security monitoring environment focused on learning SIEM operations and investigation workflows. - Deploying and configuring Wazuh components and dashboard. - Exploring endpoint and security event collection. - Practising log review, alert triage, and investigation. - Documenting setup, test events, observations, and lessons learned. **Tools:** Wazuh, Ubuntu, Windows, Linux, VirtualBox **Repository:** `ADD_HOME_SOC_LAB_REPOSITORY_URL` ### 2. OWASP Juice Shop Web Application Security Assessment — In Progress An authorized, locally hosted web application assessment using OWASP Juice Shop as a controlled practice target. - Mapping application functionality and potential attack surface. - Practising web testing with Burp Suite. - Studying relevant OWASP Top 10 risk categories. - Recording validated observations, impact, remediation guidance, and supporting evidence. **Tools:** OWASP Juice Shop, Burp Suite, Kali Linux **Repository:** `ADD_JUICE_SHOP_ASSESSMENT_REPOSITORY_URL` ### 3. Internal Network Security Assessment — In Progress A structured assessment workflow for an authorized lab network. - Network discovery and host identification. - TCP port scanning and service/version enumeration. - Safe follow-up validation and vulnerability research. - Risk assessment and professional report preparation. **Tools:** Nmap, Kali Linux, Linux **Repository:** `ADD_NETWORK_ASSESSMENT_REPOSITORY_URL` ### 4. AI Security Lab — In Progress A practical learning space exploring the intersection of artificial intelligence and cybersecurity. - Exploring AI-assisted security research and analysis. - Experimenting with security workflow automation. - Studying AI security risks and testing approaches. - Documenting experiments, limitations, and reproducible results. **Tools:** Python, Linux, AI tools **Repository:** `ADD_AI_SECURITY_LAB_REPOSITORY_URL` ## Professional Development - **Google Cybersecurity training** — completed. - **IBM CEH training through Coursera** — in progress. - **TryHackMe** — practical cybersecurity learning. - **Hack The Box** — hands-on security practice. - Ongoing home-lab exercises, technical research, and portfolio development. *Training and practical learning are listed separately from professional certifications and employment experience.* ## What I'm Currently Working On - Building and documenting a home SOC environment with Wazuh. - Learning SIEM monitoring, log analysis, and alert investigation. - Practising vulnerability assessment in authorized lab environments. - Developing a structured OWASP Juice Shop assessment. - Improving network security assessment and reporting skills. - Mapping relevant security observations to MITRE ATT&CK and NIST CSF where appropriate. ## GitHub Activity
+GitHub statistics Most used languages GitHub contribution streak Profile views
+*GitHub statistics and contribution widgets are provided by third-party services and may occasionally be unavailable.* ## Connect
+[![GitHub](https://img.shields.io/badge/GitHub-samuelmuchirasec-181717?style=for-the-badge&logo=github)](https://github.com/samuelmuchirasec) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel_Murimi_Muchira-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samuel-murimi-39a3b53a4/) **Email:** `ADD_PROFESSIONAL_EMAIL` **Portfolio:** `ADD_PORTFOLIO_WEBSITE`
 ---
-
-## About Me
-
-I am an entry-level cybersecurity practitioner based in Kenya, interested in security operations, network security, vulnerability assessment, and web application security.
-
-I use practical labs and projects to develop my technical skills and document my learning.
-
-## Technical Skills
-
-- **Operating Systems:** Kali Linux, Ubuntu, Windows
-- **Security Tools:** Nmap, Burp Suite, Wireshark, Wazuh, Metasploit
-- **Security Areas:** Network Security, Vulnerability Assessment, Web Security, Security Monitoring
-- **Frameworks:** OWASP Top 10, MITRE ATT&CK, NIST CSF
-
-## Projects
-
-| Project | Description | Status |
-|---|---|---|
-| Home SOC Lab | Wazuh-based security monitoring lab | In Progress |
-| Network Security Assessment | Network discovery and security analysis | In Progress |
-| Web Application Security | Authorized web security testing | In Progress |
-| AI Security Lab | Practical AI security exploration | In Progress |
-
-## Training
-
-- Google Cybersecurity training completed
-- IBM Ethical Hacking through Coursera (ongoing)
-- TryHackMe
-- Hack The Box
-
-## Career Interests
-
-- SOC Analyst
-- Junior Cybersecurity Analyst
-- Vulnerability Assessment
-- Junior Penetration Tester
-
-## Contact
-
-- GitHub: https://github.com/samuelmuchirasec
-- LinkedIn: https://www.linkedin.com/in/samuel-murimi-39a3b53a4/
-
----
-
-<p align="center">
-  <i>Learning, building, testing, and documenting cybersecurity skills.</i>
-</p>
+**BUILDING, BREAKING & SECURING SYSTEMS** *Learn continuously. Test responsibly. Document everything.*
 
