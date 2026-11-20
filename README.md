@@ -1,9 +1,15 @@
 
-<h1 align="center">Cybersecurity Portfolio</h1>
-
 <p align="center">
-  Entry-Level Cybersecurity Practitioner | Security Operations | Vulnerability Assessment
+  <img
+    src="https://raw.githubusercontent.com/samuelmuchirasec/sammuchirasec/main/Cybersecurity%20Practitioner%20Neon%20SOC%20Banner.png"
+    alt="Samuel Murimi - Cybersecurity Practitioner"
+    width="100%"
+  />
 </p>
+
+<h1 align="center">Samuel Murimi Muchira</h1>
+
+<h3 align="center">Cybersecurity Practitioner | Security Operations | Vulnerability Assessment</h3>
 
 <p align="center">
   <a href="https://github.com/samuelmuchirasec">GitHub</a> |
@@ -14,59 +20,32 @@
 
 ## About Me
 
-My name is Samuel Murimi Muchira, and I am an entry-level cybersecurity practitioner based in Kenya.
+I am an entry-level cybersecurity practitioner based in Kenya, interested in security operations, network security, vulnerability assessment, and web application security.
 
-I am interested in cybersecurity operations, network security, vulnerability assessment, and web application security.
-
-This repository documents my practical projects, cybersecurity labs, technical exercises, and ongoing learning.
+I use practical labs and projects to develop my technical skills and document my learning.
 
 ## Technical Skills
 
-**Security Tools**
-- Kali Linux
-- Nmap
-- Burp Suite
-- Wireshark
-- Wazuh
-- Metasploit Framework
-
-**Technical Areas**
-- Network Security
-- Vulnerability Assessment
-- Web Application Security
-- Security Monitoring
-- Linux Administration
-- Basic Incident Detection and Analysis
-
-**Frameworks**
-- OWASP Top 10
-- MITRE ATT&CK
-- NIST Cybersecurity Framework
-
-## Training and Learning
-
-- Google Cybersecurity Professional Certificate training completed.
-- IBM Ethical Hacking training through Coursera (ongoing).
-- TryHackMe practical exercises.
-- Hack The Box practical exercises.
-- Personal cybersecurity lab projects.
+- **Operating Systems:** Kali Linux, Ubuntu, Windows
+- **Security Tools:** Nmap, Burp Suite, Wireshark, Wazuh, Metasploit
+- **Security Areas:** Network Security, Vulnerability Assessment, Web Security, Security Monitoring
+- **Frameworks:** OWASP Top 10, MITRE ATT&CK, NIST CSF
 
 ## Projects
 
 | Project | Description | Status |
 |---|---|---|
-| Home SOC Lab | Security monitoring using Wazuh, Ubuntu and Windows | In Progress |
-| Network Security Assessment | Network discovery, scanning and security analysis | In Development |
-| Web Application Security | Authorized testing using OWASP Juice Shop and Burp Suite | In Development |
-| AI Security Lab | Exploring AI security concepts and practical applications | In Progress |
+| Home SOC Lab | Wazuh-based security monitoring lab | In Progress |
+| Network Security Assessment | Network discovery and security analysis | In Progress |
+| Web Application Security | Authorized web security testing | In Progress |
+| AI Security Lab | Practical AI security exploration | In Progress |
 
-## Learning Platforms
+## Training
 
-<p>
-  <a href="https://tryhackme.com/">TryHackMe</a> |
-  <a href="https://www.hackthebox.com/">Hack The Box</a> |
-  <a href="https://www.coursera.org/">Coursera</a>
-</p>
+- Google Cybersecurity training completed
+- IBM Ethical Hacking through Coursera (ongoing)
+- TryHackMe
+- Hack The Box
 
 ## Career Interests
 
@@ -74,15 +53,15 @@ This repository documents my practical projects, cybersecurity labs, technical e
 - Junior Cybersecurity Analyst
 - Vulnerability Assessment
 - Junior Penetration Tester
-- IT Security Support
 
 ## Contact
 
-- **GitHub:** <a href="https://github.com/samuelmuchirasec">samuelmuchirasec</a>
-- **LinkedIn:** <a href="https://www.linkedin.com/in/samuel-murimi-39a3b53a4/">Samuel Murimi</a>
+- GitHub: https://github.com/samuelmuchirasec
+- LinkedIn: https://www.linkedin.com/in/samuel-murimi-39a3b53a4/
 
 ---
 
 <p align="center">
-  <i>Documenting my cybersecurity learning journey through practical projects and hands-on labs.</i>
+  <i>Learning, building, testing, and documenting cybersecurity skills.</i>
 </p>
+
